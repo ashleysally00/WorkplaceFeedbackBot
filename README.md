@@ -1,4 +1,4 @@
-# WorkplaceFeedbackBot
+# Workplace Feedback Bot
 
 WorkplaceFeedbackBot:v1.0 (by u/ashleysally00)
 
