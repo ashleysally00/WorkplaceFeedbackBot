@@ -3,6 +3,7 @@
 
 
 *WorkplaceFeedbackBot:v1.0* </br>
+
 The Workplace Sentiment Analyzer Tool uses the Reddit API to process discussions from work-related subreddits. It applies NLP and data analysis to track sentiment trends and career-related insights across industry discussions.
 
 
