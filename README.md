@@ -3,8 +3,7 @@
 
 
 *WorkplaceFeedbackBot:v1.0* 
-
-The Workplace Sentiment Analyzer Tool is a sentiment analysis tool that tracks discussions in **work-related subreddits** to analyze **job satisfaction, workplace concerns, and employee well-being**. Using **Natural Language Processing (NLP) and data analysis**, it helps identify trends in workplace sentiment, providing insights into employee experiences.
+The Workplace Sentiment Analyzer Tool uses the Reddit API to process discussions from work-related subreddits. It applies NLP and data analysis to track sentiment trends and career-related insights.
 
 
 ## Features
