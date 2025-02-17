@@ -15,9 +15,6 @@ The Workplace Sentiment Analyzer Tool uses the Reddit API to process discussions
 - **Stores data in a CSV file** for further analysis
 
 ## **Technical Overview**  
-The methodology combines **API-based data retrieval** (via the Reddit API) and **text mining** (using NLP techniques) to analyze trends and sentiments related to work. For a more detailed explanation of this technical approach, check out **METHODOLOGY.md**.  
-
-## **Technical Overview**  
 The methodology combines **API-based data retrieval** (via the Reddit API) and **text mining** (using NLP techniques) to analyze trends and sentiments related to work. For a more detailed explanation of this technical approach, check out [METHODOLOGY.md](https://github.com/ashleysally00/workplace_sentiment_analyzer_tool/blob/main/METHODOLOGY.md).  
 
 ## **Methodology**  
