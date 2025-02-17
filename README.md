@@ -27,7 +27,6 @@ This project consists of two main phases:
 ### **2. Text Analysis (Sentiment Mining)**  
 - Performs **sentiment analysis** on the extracted text using **NLTK’s VADER**.  
 - Classifies discussions as **positive, neutral, or negative**.  
-- Uses **NLP techniques** like **tokenization, lemmatization, and stopword removal** to refine the analysis.  
 
 ## **Technologies Used**  
 - **API-Based Data Retrieval**: Reddit API (PRAW)  
