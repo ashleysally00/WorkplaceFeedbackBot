@@ -8,7 +8,7 @@ Text mining and web scraping are related but serve different purposes. Understan
 - **Definition**: Web scraping is the process of automatically extracting data from websites. It involves using tools or scripts to collect structured or unstructured information from web pages.
 - **Purpose**: To gather large amounts of data from the web for analysis, research, or automation.
 - **Techniques**:
-- Using Python libraries like **[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)** or **Scrapy**
+- Using Python libraries like **[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)** or **[Scrapy](https://docs.scrapy.org/)**
 - Employing APIs (if available) instead of directly scraping HTML
 - **Example**: Collecting product prices from e-commerce websites or extracting job postings from LinkedIn.
 
