@@ -15,6 +15,32 @@ The Workplace Sentiment Analyzer Tool uses the Reddit API to process discussions
 - **Visualizes sentiment trends** using **Matplotlib**  
 - **Stores data in a CSV file** for further analysis  
 
+Here's the text formatted in Markdown:
+
+## Project Overview
+
+This project uses the **Reddit API** to extract job-related discussions from various subreddits and applies **sentiment analysis** to understand user opinions about jobs.
+
+It combines **web scraping** (via the Reddit API) and **text mining** (using NLP techniques) to analyze trends, identify job satisfaction patterns, and visualize sentiment over time.
+
+## Methodology
+
+This project consists of two main phases:
+
+1. **Data Collection (Web Scraping via API)**
+   * Uses the **Reddit API (PRAW)** to fetch job-related posts and comments
+   * Extracts structured text data, including **post titles, comments, upvotes, and timestamps**
+
+2. **Text Analysis (Sentiment Mining)**
+   * Performs **sentiment analysis** on the extracted text using **NLTK's VADER**
+   * Classifies discussions as **positive, neutral, or negative**
+   * Uses NLP techniques like **tokenization, lemmatization, and stopword removal** to refine the analysis
+
+## Technologies Used
+* **Web Scraping**: Reddit API (PRAW)
+* **Text Mining & NLP**: NLTK, VADER Sentiment Analysis 
+* **Data Processing**: pandas, NumPy
+* **Visualization**: Matplotlib, Seaborn
 
 ## Reddit API Setup
 
