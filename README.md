@@ -14,9 +14,8 @@ The Workplace Sentiment Analyzer Tool uses the Reddit API to process discussions
 - **Visualizes sentiment trends** using **Matplotlib**  
 - **Stores data in a CSV file** for further analysis  
 
-## Project Overview
-
-This project uses the **Reddit API** to extract job-related discussions from various subreddits and applies **sentiment analysis** to understand user opinions about jobs. The methodology combines **web scraping** (via the Reddit API) and **text mining** (using NLP techniques) to analyze trends, identify job satisfaction patterns, and visualize sentiment over time. For a more detailed explanation of this technical approach, check out [METHODOLOGY.md](./METHODOLOGY.md).
+## Technical Overview
+The methodology combines **web scraping** (via the Reddit API) and **text mining** (using NLP techniques) to analyze trends, identify job satisfaction patterns, and visualize sentiment over time. For a more detailed explanation of this technical approach, check out [METHODOLOGY.md](./METHODOLOGY.md).
 
 ## Methodology
 
