@@ -12,10 +12,10 @@ The Workplace Sentiment Analyzer Tool uses the Reddit API to process discussions
   `r/jobs`, `r/careerguidance`, `r/humanresources`, `r/productivity`
 - **Uses VADER Sentiment Analysis** to classify discussions as **positive, neutral, or negative**  
 - **Visualizes sentiment trends** using **Matplotlib**  
-- **Stores data in a CSV file** for further analysis  
+- **Stores data in a CSV file** for further analysis
 
 ## Technical Overview
-The methodology combines **web scraping** (via the Reddit API) and **text mining** (using NLP techniques) to analyze trends, identify job satisfaction patterns, and visualize sentiment over time. For a more detailed explanation of this technical approach, check out [METHODOLOGY.md](./METHODOLOGY.md).
+The methodology combines **web scraping** (via the Reddit API) and **text mining** (using NLP techniques) to analyze trends and sentiments related to work. For a more detailed explanation of this technical approach, check out [METHODOLOGY.md](./METHODOLOGY.md).
 
 ## Methodology
 
