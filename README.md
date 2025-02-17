@@ -132,4 +132,11 @@ for post in subreddit.new(limit=20)
 **Most Positive Post:** `"Struggling with motivation? Me too, but here’s what helped!"` (**0.9992**)  
 **Most Negative Post:** `"I’m depressed because I can’t find a job."` (**-0.9786**)  
 
+## Disclaimer
+This repository provides guidance on how to build a tool using the official **Reddit API** for job sentiment analysis. It does not involve web scraping of HTML pages and fully complies with **Reddit’s Data API Terms**.  
+
+Users are responsible for ensuring that their implementation follows Reddit’s **rate limits**, **terms of use**, and any applicable laws regarding data collection and analysis.  
+
+For more information, refer to Reddit’s official [Data API Terms](https://www.redditinc.com/policies/data-api-terms).
+
 
